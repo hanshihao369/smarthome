@@ -1,0 +1,1 @@
+cmd_/home/han/linux/IMX6ULL/smarthome/smarthome_driver/led/led_driver.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/han/linux/IMX6ULL/smarthome/smarthome_driver/led/led_driver.ko /home/han/linux/IMX6ULL/smarthome/smarthome_driver/led/led_driver.o /home/han/linux/IMX6ULL/smarthome/smarthome_driver/led/led_driver.mod.o

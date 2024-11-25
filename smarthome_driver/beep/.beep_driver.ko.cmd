@@ -1,0 +1,1 @@
+cmd_/home/dxg/alientek/kernel/linux_driver/project_driver/beep/beep_driver.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/dxg/alientek/kernel/linux_driver/project_driver/beep/beep_driver.ko /home/dxg/alientek/kernel/linux_driver/project_driver/beep/beep_driver.o /home/dxg/alientek/kernel/linux_driver/project_driver/beep/beep_driver.mod.o
